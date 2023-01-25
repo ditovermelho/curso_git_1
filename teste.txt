@@ -2,3 +2,5 @@ Testando repo 1.
 a
 b
 c
+device
+e
